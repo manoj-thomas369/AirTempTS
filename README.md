@@ -63,7 +63,6 @@ This project aims to accurately forecast air temperature using a combination of 
 - Time Series Predictions vs Actuals  
 - Residual Analysis  
 - Autocorrelation and Partial Autocorrelation Plots  
-- Confusion Matrix (for classification framing, if applied)  
 
 ---
 
